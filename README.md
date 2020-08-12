@@ -31,7 +31,7 @@
 [<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 [<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]gi
+[<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="moon1ock" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackexchange.svg" />][stackoverflow]
 
 <br />
