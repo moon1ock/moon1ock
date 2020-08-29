@@ -70,7 +70,7 @@
 [stackoverflow]: https://stackoverflow.com/users/10929808/moon1lock
 [gmail]: mailto:andriy@nyu.edu
 [research]: https://nyuad.nyu.edu/en/research.html
-[hyperloop]: https://www.nyu.edu/admissions/undergraduate-admissions/life-at-nyu/nyu-q-winter2017/nyu-academics/nyu-hyperloop-the-future-of-transportation.html
+[hyperloop]: https://risingviolets.nyu.edu/project/11886
 [config]: https://github.com/moon1ock/BackUpConfig
 [instagram]: https://www.instagram.com/andriy.lunin/
 [linkedin]: https://www.linkedin.com/in/andrii-lunin/
