@@ -11,6 +11,8 @@
 
 - ⚡ Wile you are reading this, I am probably dealing with a seg fault or watching memes. Possibly both.
 
+- Assume [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) for all of my projects unless stated otherwise 😉
+
 
 ### 🖥 [My setup][config]
 
