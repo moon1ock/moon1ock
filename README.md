@@ -61,7 +61,7 @@
 <img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="Git" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" />
 
 <br />
 <br />
