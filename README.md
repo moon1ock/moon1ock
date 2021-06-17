@@ -1,4 +1,4 @@
-### 👀 Yo, I'am Andriy - aka [moon1ock][website].
+### 👀 Yo, I am Andriy - aka [moon1ock][website].
 
 ## 🤷‍♂️ I'm a Math + CS student @NYU
 - 🔭 I’m currently working on [Decentralized Web Hosting Services][research]!
