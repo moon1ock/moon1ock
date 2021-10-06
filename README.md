@@ -9,7 +9,7 @@
 
 - 📠 I work with all kinds of stuff, but I am passionate about **data-driven projects**.
 
-- ⚡ Wile you are reading this, I am probably dealing with a seg fault or watching memes. Possibly both.
+- ⚡ While you are reading this, I am probably dealing with a seg fault or watching memes. Possibly both.
 
 - Assume [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) for all of my projects unless stated otherwise. 😉
 
