@@ -3,7 +3,7 @@
 ## 🤷‍♂️ I'm a Math + CS student @NYU
 - 🔭 I’m currently working on [Decentralized Web Hosting Services][research]!
 
-- ♾ This Fall I am excited to join the [NYU Hyperloop Team][hyperloop] as a Software Enginner.
+- ♾ I took part in the [NYU Hyperloop Team Competition][hyperloop] as a Software Enginner.
 
 - 🎩 I do [White Hat Hacking][whitehat], but only for security improvement purposes.
 
