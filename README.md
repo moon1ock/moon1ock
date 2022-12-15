@@ -76,5 +76,5 @@
 [hyperloop]: https://risingviolets.nyu.edu/project/11886
 [config]: https://github.com/moon1ock/BackUpConfig
 [instagram]: https://www.instagram.com/andriy.lunin/
-[linkedin]: https://www.linkedin.com/in/andrii-lunin/
+[linkedin]: https://www.linkedin.com/in/andriy-lunin/
 [facebook]: https://www.facebook.com/andriy.lunin
