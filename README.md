@@ -21,7 +21,7 @@
 - *zsh* terminal shell
 - *Python & C* are my go to languages
 - *MySQL* databases
-- *Flask* & *Apahce* for deployment
+- *Flask* & *Apache* for deployment
 - *Numpy*, *Scipy*, *Mathplotlib*, *Tenzorflow* for Data Processing
 
 
