@@ -1,18 +1,4 @@
-### 👀 Yo, I am Andriy - aka [moon1ock][website].
-
-## 🤷‍♂️ I'm a Math + CS student @NYU
-- 🔭 I’m currently working on [Decentralized Web Hosting Services][research]!
-
-- ♾ I took part in the [NYU Hyperloop Team Competition][hyperloop] as a Software Enginner.
-
-- 🎩 I do [White Hat Hacking][whitehat], but only for security improvement purposes.
-
-- 📠 I work with all kinds of stuff, but I am passionate about **data-driven projects**.
-
-- ⚡ While you are reading this, I am probably dealing with a seg fault or watching memes. Possibly both.
-
-- Assume [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) for all of my projects unless stated otherwise. 😉
-
+### 👀 Yo, I am Andriy - aka [moon1ock].
 
 ### 🖥 [My setup][config]
 
